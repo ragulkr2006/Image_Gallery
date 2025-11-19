@@ -304,7 +304,7 @@ let currentIndex = 0;
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-11-19 113119.png>)
-![alt text](image.png)
+![alt text](ex81.png)
+![alt text](ex82.png)
 ## RESULT
   The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
